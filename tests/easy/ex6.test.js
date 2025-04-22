@@ -7,3 +7,8 @@ describe('Name Screamer function', () => {
     expect(screamName('bob smith')).toBe('BOB SMITH!!!');
   });
 });
+
+
+//What is the Expect variable?? is it a variable??
+
+
