@@ -11,3 +11,6 @@ describe('Resolution Checker function', () => {
     expect(checkResolution(500, 500)).toBe('portrait');
   });
 });
+
+
+

@@ -1,15 +1,23 @@
 function screamName(name) {
   /* take a name as input and return it in ALL CAPS with 3 exclamation marks */
  
-  const newName = 'john!!!'; 
-  return newName;
+  const Nombre = 'john'; 
+
+  console.log(Nombre.toUpperCase() + '!!!');
+
+
+  // console.log('john'.toUpperCase() + '!!!');
+
+
+
+  // return Nombre;
 
 // console.log('newName'.toUpperCase + "!!!");
-console.log(newName.toUpperCase() + "!!!");
 //console.log(newName('john').toUpperCase() + "!!!");
 
 //The question states it wants the answer to be john in all caps but for some reason the method 
 // isn't working with the string or the Const variable
+
 
 }
 
